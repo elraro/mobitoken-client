@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobiToken</string>
+    <string name="bluetooth_service">Bluetooth Service active</string>
+    <string name="bluetooth_service_description">Touch to set up</string>
+</resources>
